@@ -1,1 +1,1 @@
-hello, mars-world!
+hello, mars!
